@@ -42,5 +42,5 @@ In this challenge, we are looking to assess your Python coding ability and data 
 
 ## Navigation
 
-- [Next, move onto Part 2!](https://gist.github.com/jeff-boykin/e5d82e79a3de29813ff745496e6cb5c1)
+- [Next, move onto Part 2!](https://github.com/melanie-wu/coding-challenge-task-2)
 - [Return to Home](https://github.com/melanie-wu/coding-challenge)
